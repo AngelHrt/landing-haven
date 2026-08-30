@@ -1,0 +1,36 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 385 335"
+  width="385"
+  height="335"
+>
+  <g fill="#D37C4B">
+
+    <!-- Segmento superior izquierdo -->
+    <path d="
+      M60 267
+      L60 132
+      L160 38
+      L267 38
+      L267 103
+      L186 103
+      L124 160
+      L124 267
+      Z
+    "/>
+
+    <!-- Segmento inferior derecho -->
+    <path d="
+      M267 103
+      L332 103
+      L332 237
+      L232 332
+      L124 332
+      L124 267
+      L205 267
+      L267 209
+      Z
+    "/>
+
+  </g>
+</svg>
